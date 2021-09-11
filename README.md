@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/estefanyvergara96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="estefanyvergara" height="20" width="30" /></a>
+<a href="https://www.linkedin.com/in/estefanyvergara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="estefanyvergara" height="20" width="30" /></a>
 <a href="https://www.facebook.com/vteffa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="estefanyvergara" height="20" width="30" /></a>
 <a href="https://www.instagram.com/_teffak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="estefanyvergara" height="20" width="30" /></a>
 </p>
