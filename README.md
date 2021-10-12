@@ -17,7 +17,7 @@
 
 ❤️ My Pronouns are she/her  <br> 
 📚 Currently studying as Front-End developer at Laboratoria <br>
-🎮 I love playing videogames. My favoritegenre is horror <br>
+🎮 I love playing videogames. My favorite genre is horror <br>
 📫 How to reach me: vteffa@gmail.cl
 
 <h3 align="center">Languages and Tools:</h3>
