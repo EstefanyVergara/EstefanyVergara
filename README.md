@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-<h4><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙋 Estefany Vergara | 💻 Front End Developer Jr | 🎨 Graphic Designer | 🌎 Santiago, Chile <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h4><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙋 Estefany Vergara | 💻 Software Developer Jr | 🎨 Graphic Designer | 🌎 Santiago, Chile <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 ---
@@ -24,7 +24,8 @@
 <img src = "xd-plain.svg"  alt="xd" width="40" height="40"/></a>
 <img src = "canva-original.svg"  alt="canva" width="40" height="40"/> 
 <img src = "trello-plain.svg"  alt="trello" width="40" height="40"> 
-<img src = "bootstrap.svg"  alt="bootstrap" width="40" height="40"/>
+<img src = "bootstrap.svg"  alt="bootstrap" width="40" height="40"/> 
+
 
 
 ---
