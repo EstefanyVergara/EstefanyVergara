@@ -26,12 +26,3 @@
 <img src = "trello-plain.svg"  alt="trello" width="40" height="40"> 
 <img src = "bootstrap.svg"  alt="bootstrap" width="40" height="40"/> 
 
-
-
----
-
-<br>
-<p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=EstefanyVergara&&show_icons=true&theme=radical"/>
-  </a>
